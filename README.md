@@ -20,4 +20,4 @@ This solver attempts to solve a game of Magic: The Gathering from a given positi
 - vanilla creatures: all non-land cards are creatures without any abilities
 - colorless mana: mana color is ignored
 
-These simplifications allow for a generic computable solver for a important subset of Magic: the Gathering's combat system.
+These simplifications allow for a generic computable solver for an important subset of Magic: the Gathering's combat system.
